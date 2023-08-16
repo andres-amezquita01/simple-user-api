@@ -1,0 +1,7 @@
+/home/andres/Documents/university/10th/microservices/simple-user-api/src/main/java/com/simpleapi/mysimpleapi/dao/UserDAO.java
+/home/andres/Documents/university/10th/microservices/simple-user-api/src/main/java/com/simpleapi/mysimpleapi/config/OpenApiConfig.java
+/home/andres/Documents/university/10th/microservices/simple-user-api/src/main/java/com/simpleapi/mysimpleapi/services/UserService.java
+/home/andres/Documents/university/10th/microservices/simple-user-api/src/main/java/com/simpleapi/mysimpleapi/services/implementations/UserServiceImp.java
+/home/andres/Documents/university/10th/microservices/simple-user-api/src/main/java/com/simpleapi/mysimpleapi/domain/User.java
+/home/andres/Documents/university/10th/microservices/simple-user-api/src/main/java/com/simpleapi/mysimpleapi/controller/UserController.java
+/home/andres/Documents/university/10th/microservices/simple-user-api/src/main/java/com/simpleapi/mysimpleapi/MysimpleApiApplication.java
